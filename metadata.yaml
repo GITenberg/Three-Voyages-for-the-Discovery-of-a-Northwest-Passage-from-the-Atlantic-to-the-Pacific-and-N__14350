@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5104
     wikipedia: http://en.wikipedia.org/wiki/William_Edward_Parry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14350#Three-Voyages-for-the-Discovery-of-a-Northwest-Passage-from-the-Atlantic-to-the-Pacific-and-N_
 gutenberg_issued: '2004-12-14'
 gutenberg_type: Text
 identifiers:
